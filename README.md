@@ -1,18 +1,27 @@
 <h1> Ola! Eu sou o Nicolas Mariano </h1>
 
-
-- 🔭estudando full satk 
-
 <div align="center">
-  <a href="https://github.com/nicolas00000">
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=nicolas00000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas00000&layout=compact&langs_count=7&theme=dark"/>
+ <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=nicolas00000&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+   <source
+      srcset=" https://github-readme-stats.vercel.app/api?username=nicolas00000&show_icons=true"
+      media="(prefers-color-scheme: dark)"
+    />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </div>
   
+<div align="center">
   <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" height="30" width="40" src="https://user-images.githubusercontent.com/87996073/183702642-5eb18eb5-d274-48c2-ba09-fb033a12319a.png">
   
     
