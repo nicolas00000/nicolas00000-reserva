@@ -1,5 +1,32 @@
 <h1> Ola! Eu sou o Nicolas Mariano </h1>
-<div align="center">
+
+<li> 
+ 👋 Me chamo Nicolas Mariano, mas pode me chamar apenas de Nicolas. Prazer!
+</li>
+ 
+ <li> 
+  👨‍💻 Há mais de 2 anos programando interfaces com JavaScript, React JS e Typescript.
+ </li>
+ 
+ 
+  <li> 
+ 🎓 Concluindo 3° ano do ensino médio
+ </li>
+ 
+ 
+  <li> 
+ 💡 Expertise comprovada e habilidades versáteis para atender às demandas do mercado atual.
+ </li>
+ 
+ 
+  <li> 
+ 🚀 Experiência comprovada através da entrega bem-sucedida de +20 projetos
+ </li>
+
+
+
+
+<div>
  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas00000&show_icons=true&border_color=00000000&theme=buefy&text_color=686D76&icon_color=A31ACB&bg_color=00000000&include_all_commits=true&count_private=true"/>
 <img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas00000&hide_border=true&layout=compact&text_color=686D76&theme=buefy&bg_color=00000000">
   
