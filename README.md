@@ -1,6 +1,6 @@
 <h1> Ola! Eu sou o Nicolas Mariano </h1>
 
-<li> 
+<li>  
  👋 Me chamo Nicolas Mariano, mas pode me chamar apenas de Nicolas. Prazer!
 </li>
  
