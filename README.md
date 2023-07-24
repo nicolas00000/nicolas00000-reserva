@@ -2,7 +2,7 @@
   
 <li>   
  👋 Me chamo Nicolas Mariano, mas pode me chamar apenas de Nicolas. Prazer!
-</li>
+</li>   
  
  <li> 
   👨‍💻 Há mais de 2 anos programando interfaces com JavaScript, React JS e Typescript.
