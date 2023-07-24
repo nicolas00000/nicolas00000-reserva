@@ -6,7 +6,7 @@
  
  <li> 
   👨‍💻 Há mais de 2 anos programando interfaces com JavaScript, React JS e Typescript.
- </li>
+ </li>  
  
  
   <li> 
